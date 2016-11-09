@@ -36,7 +36,7 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic2.png)
  
  3.2).	โปรแกรม และบันทึกผลที่ได้
-![]()
+![](https://github.com/UkritFB/LAB-06/blob/master/6.3.PNG?raw=true)
 
 4).	โปรแกรมสำหรับรับค่าตัวเลข เนื่องจากคำสั่ง ```Read()``` และ ```ReadLine()``` จะรับเฉพาะตัวอักษร การรับตัวเลข เราต้องใช้เมธอด TryParse() มาช่วยแปลงค่า
 
